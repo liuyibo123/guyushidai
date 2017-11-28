@@ -1,0 +1,31 @@
+.query{
+	width: 250px;
+	height: 300px;
+}
+.class_item{
+	width: 1000px;
+	height: 300px;
+	padding-left: 5%;
+	padding-right: 5%
+}
+.item_img{
+	width: 200px;
+	height: 200px;
+	border:2px solid blue;
+	float: left;
+	margin: 5px;
+}
+.item_btn{
+	width: 10%;
+	height: 60%;
+	border:2px solid blue;
+	float: left;
+	margin:25px 5px 5px 5px;
+}
+.item_content{
+	width: 50%;
+	height: 80%;
+	border:2px solid blue;
+	float: left;
+	margin: 5px;
+}
