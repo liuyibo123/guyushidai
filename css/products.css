@@ -1,0 +1,53 @@
+.panel_head{
+	
+	text-align: center;
+	background-color:#E7E7E7;
+	
+}
+.panel_head p{
+	font-size: large;
+	padding-top: 10px;
+	
+}
+.panel_ul li{
+	padding: 3px;
+	text-align: center;
+	text-spacing: 2em;
+	
+}
+.panel_container{
+	margin: 5px;
+	line-height: 2em;
+	height: 500px;
+	width: 18%;
+	float: left;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #DDDDDD;
+}
+.divider{
+	height: 8px;
+	width: 100%;
+	background: #157CC4;
+}
+
+.wp-list-container{
+	padding: 20px;
+}
+.wp-link-item{
+	
+	border-bottom: 1px solid #C0C0C0;
+	font-size: small;
+	margin: 10px;
+	float: left;
+	width: 20%;
+}
+.wp-link{
+	color: #8C8C8C;
+}
+.title{
+	font-size:28px;
+	line-height:28px;
+	font-weight:300;
+	text-align: center;
+}
